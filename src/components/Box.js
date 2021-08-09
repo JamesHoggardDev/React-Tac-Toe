@@ -1,23 +1,20 @@
-import React from 'react';
+import React from "react";
 
 const style = {
-    background: '#fff',
-    border: '2px solid green',
-    fontSize: '30px',
-    fontWeight: '800',
-    cursor: 'pointer',
-    outline: 'none'
-}
-
+  background: "#fff",
+  border: "2px solid blue",
+  fontSize: "30px",
+  fontWeight: "800",
+  cursor: "pointer",
+  outline: "none",
+};
 
 function Box({ value, onClick }) {
-    return (
-        <button
-            style={style}
-            onClick={onClick}>
-            {value}
-        </button>
-    ); 
+  return (
+    <button style={style} onClick={onClick}>
+      {value}
+    </button>
+  );
 }
 
 export default Box;
