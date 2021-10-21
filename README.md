@@ -1,6 +1,6 @@
 # Start a game with friends
 
-Check out [React-Tac-Toe](https://react-tac-toe-numflv6n5-jameshoggarddev.vercel.app).
+View deployment [React-Tac-Toe](https://react-tac-toe-numflv6n5-jameshoggarddev.vercel.app).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
